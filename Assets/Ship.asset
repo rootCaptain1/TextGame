@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6594feb275e870f4e80cd1bf0b03fd90, type: 3}
+  m_Name: Ship
+  m_EditorClassIdentifier: 
+  gameText: My Ship! Oh, it looks like it has been looted. Do I go right and look
+    for a settlement or left and look for the theif?
+  otherStates:
+  - {fileID: 11400000, guid: f930e21ee640c2046b5c09f36bee6c98, type: 2}
+  - {fileID: 11400000, guid: 4325bb50eca1f5540bdd4389f705bd58, type: 2}

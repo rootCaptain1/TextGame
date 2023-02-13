@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6594feb275e870f4e80cd1bf0b03fd90, type: 3}
+  m_Name: Theif
+  m_EditorClassIdentifier: 
+  gameText: I have found the theif! The theif is running away! Do I chase the theif
+    left or go right to my ship?
+  otherStates:
+  - {fileID: 11400000, guid: 62fd0944e650d364293c83f5526844b8, type: 2}
+  - {fileID: 11400000, guid: 4c84869f0e235024bb237963b3dc8f86, type: 2}
